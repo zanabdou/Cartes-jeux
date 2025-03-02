@@ -12,9 +12,9 @@ style: .cardBack aside{font-weight:500; text-align:center;}aside span{font-size:
 
 Une proposition par Cédric Eyssette, sous licence CC-BY-SA. D'après le travail de Thierry Munoz.
 https://forge.apps.education.fr/thierrym/glabels-creation-cartes-etiquettes
-1.[Acquisition d'une culture numérique](Axe_1)
+1.[Acquisition d'une culture numérique](Axe1)
 
-## Axe_1 
+## Axe1 
 <aside>Article 1</aside>
 - ![vert]()
 L’acquisition d’une culture numérique permet à chaque élève d’exercer sa citoyenneté dans une société inclusive.
