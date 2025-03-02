@@ -15,8 +15,7 @@ https://forge.apps.education.fr/thierrym/glabels-creation-cartes-etiquettes
 1.[Acquisition d'une culture numérique](Axe1)
 
 ## Axe1 
-<aside>Article 1</aside>
-- ![vert]()
+
 L’acquisition d’une culture numérique permet à chaque élève d’exercer sa citoyenneté dans une société inclusive.
 ### Mots clés
 - Culture numérique
